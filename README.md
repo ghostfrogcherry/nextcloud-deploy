@@ -1,6 +1,6 @@
 # Nextcloud Deploy
 
-Portable Nextcloud deployment bundle for a future Linux machine. This does not install anything on the current PC.
+Portable Nextcloud deployment bundle.
 
 ## What It Includes
 
